@@ -21,6 +21,8 @@ An environmental machine learning regression project designed to predict Delhi's
 - Test_Predictions.csv: Final batch prediction output on unseen test data.
 
 ## Project Structure
+
+```text
 Air-Quality-Prediction/
 ├── air_quality_prediction.ipynb
 ├── Train.csv
@@ -29,7 +31,7 @@ Air-Quality-Prediction/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ## How to Run Locally
 
 1. Clone this repository:
